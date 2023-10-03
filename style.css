@@ -17,8 +17,10 @@ header {
     padding-top: 24px;
     padding-bottom: 24px;
 }
-
-#nav .row {
+#nav .nav-head{
+    display: flex;
+}
+#nav .head {
     align-items: center;
 }
 
